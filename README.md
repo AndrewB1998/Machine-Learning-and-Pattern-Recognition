@@ -1,5 +1,5 @@
 # Course project (TKO-3120)
-https://andrewb1998.github.io/Machine-Learning-and-Pattern-Recognition/ 
+Project URL: https://andrewb1998.github.io/Machine-Learning-and-Pattern-Recognition/ 
 
 The project was carried out utilizing a Jupyter notebook and coded using Python.
 
